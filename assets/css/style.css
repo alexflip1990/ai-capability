@@ -7,6 +7,21 @@
 }
 
 body {
-    font-family: Syncopate, sans-serif;
+    font-family: Trirong, sans-serif;
     font-weight: 700;
+    color: #f5f5f5;
+    background-color: #000;
+}
+
+/* Headings and logo */
+
+h1, h2 {
+   font-family: Syncopate, sans-serif;
+   color: blue;
+   
+}
+
+.logo {
+    float: left;
+    font-size: 350%;
 }
