@@ -25,3 +25,34 @@ h1, h2 {
     float: left;
     font-size: 350%;
 }
+
+/* Navigation links */
+
+.nav {
+    font-size: 115%;
+    list-style: none;
+    float: right;
+}
+
+
+.nav li {
+    float: left;
+    margin: 400px 35px;
+    
+}
+
+.logo {
+    line-height: 80px;
+}
+
+.nav a {
+    text-decoration: none;
+}
+
+.nav a:hover {
+    border-bottom: 1px solid;
+}
+
+#active {
+    border-bottom: 1px solid;
+}
