@@ -56,3 +56,13 @@ h1, h2 {
 #active {
     border-bottom: 1px solid;
 }
+
+/* header image */
+
+#header-image {
+    height: 400px;
+    width: 100%;
+    background: url('../css/images/main-header-image.jpg') no-repeat center center;
+    background-size: cover;
+    
+}
