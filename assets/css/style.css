@@ -19,11 +19,15 @@ h1, h2 {
    font-family: Syncopate, sans-serif;
    color: blue;
    
+   
 }
 
 .logo {
     float: left;
-    font-size: 350%;
+    font-size: 250%;
+    margin-left: 40px;
+    border-bottom: 5px solid;
+    padding-top: 200px;
 }
 
 /* Navigation links */
@@ -37,7 +41,7 @@ h1, h2 {
 
 .nav li {
     float: left;
-    margin: 400px 35px;
+    margin: 400px 35px 0 
     
 }
 
@@ -60,9 +64,29 @@ h1, h2 {
 /* header image */
 
 #header-image {
-    height: 400px;
+    height: 300px;
     width: 100%;
     background: url('../css/images/main-header-image.jpg') no-repeat center center;
     background-size: cover;
     
+}
+
+/* AI info */
+
+.ai-info {
+    height: 150px;
+    padding: 110px 10px 0 50px;
+    
+}
+
+#left-txt {
+    
+     width: 50%;
+          
+}
+
+p {
+   margin-left: 40px;
+   font-size: 130%; 
+   margin-bottom: 100px; 
 }
