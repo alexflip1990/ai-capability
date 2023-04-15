@@ -41,7 +41,7 @@ h1, h2 {
 
 .nav li {
     float: left;
-    margin: 400px 35px 0 
+    margin: 400px 65px 0 
     
 }
 
@@ -89,4 +89,13 @@ p {
    margin-left: 40px;
    font-size: 130%; 
    margin-bottom: 100px; 
+}
+
+/* Images */
+
+#right-image{
+    position: absolute;
+    left: 950px;
+    top: 550px;
+    
 }
