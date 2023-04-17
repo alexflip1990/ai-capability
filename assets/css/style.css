@@ -178,7 +178,7 @@ footer {
     }
 
 
-    /* Gallery photo */
+ /* Gallery photo */
 
 #gallery-photo {
     clear: both;
@@ -199,4 +199,10 @@ footer {
     margin-top: 20px;
     padding-left: 300px;
     column-count: 1;
+}
+
+/* Gallery text */
+
+#gallery-txt > p {
+    padding-top: 20px;
 }
