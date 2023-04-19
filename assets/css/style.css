@@ -305,14 +305,43 @@ footer {
 @media screen and (max-width: 1245px) {
     #right-image {   
     position: static;
-    left: 0;
-    padding: 20px 0px 15px 15px;
+    
+    
     }
-}
 
-#left-text p {
-    text-align: center;
-    width: 100%;
-    margin-bottom: 0px;
-    float: left;
+    #left-text p {
+        text-align: center;
+        width: 100%;
+        margin-bottom: 0px;
+        float: left;
+    }
+
+    #youtube-lnk {
+            padding-left: 30px;
+        }
+
+        #youtube-txt{
+            margin: 20px;
+            padding-left: 30px;
+        }
+    }
+
+
+
+/* For medium screen sizes from 1007px wide and down */
+
+@media screen and (max-width: 1007px) {
+    .logo {
+        padding-top: 0px;
+    }
+    .nav {
+        clear: left;
+        float: left;
+        margin: 0 0 0
+        
+    }
+
+    h1 {
+        float: left;
+    }
 }
