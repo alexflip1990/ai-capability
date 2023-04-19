@@ -197,6 +197,10 @@ footer {
     margin: 0 150px;
 }
 
+#center-image-two {
+    margin: 0 150px;
+}
+
 #ai-painting {
     margin-top: 20px;
     padding-left: 300px;
@@ -224,7 +228,7 @@ footer {
     font-size: 250%;
     margin-left: 40px;
     border-bottom: 5px solid;
-    padding: 20 15px
+    padding: 20px 15px
 }
 
 .nav-register {
@@ -292,4 +296,23 @@ footer {
     background-color: #0900ae;
     color: #fafafa;
     display: block;
+}
+
+/* Media queries */
+
+/* For larger to medium size screens from 1245px wide and down */
+
+@media screen and (max-width: 1245px) {
+    #right-image {   
+    position: static;
+    left: 0;
+    padding: 20px 0px 15px 15px;
+    }
+}
+
+#left-text p {
+    text-align: center;
+    width: 100%;
+    margin-bottom: 0px;
+    float: left;
 }
