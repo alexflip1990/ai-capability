@@ -15,12 +15,12 @@
 <body>
     <header>
         <a href="index.html">
-            <h1 class="logo">AI Abilities</h1>
+            <h1 class="logo-register">AI Abilities</h1>
         </a>
         <nav>
-            <ul class="nav">
+            <ul class="nav-register">
                 <li>
-                    <a href="index.html" id="active">Home</a>
+                    <a href="index.html">Home</a>
                 </li>
                 <li>
                     <a href="gallery.html">Gallery</a>
@@ -32,17 +32,20 @@
         </nav>
     </header>
     <section class="form-section">
-        <form action="" method="POST">
+        <form action="" method="POST" class="register-form">
             <h2>Register now for free!</h2>
 
             <label for="fname">First Name</label>
-            <input required id="fname" type="text" name="first_name">
+            <input required id="fname" type="text" name="first_name"
+            class="text-input">
 
             <label for="lname">Last Name</label>
-            <input required id="lname" type="text" name="last_name">
+            <input required id="lname" type="text" name="last_name"
+            class="text-input">
 
             <label for="email">Email Address</label>
-            <input required id="email" type="email" name="email_address">
+            <input required id="email" type="email" name="email_address"
+            class="text-input">
 
             <input type="submit" value="Register!" class="join-button">
 

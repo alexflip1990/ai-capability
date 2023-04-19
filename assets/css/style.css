@@ -36,13 +36,13 @@ h1, h2 {
     font-size: 115%;
     list-style: none;
     float: right;
+    
 }
 
 
 .nav li {
     float: left;
-    margin: 400px 65px 0 
-    
+    margin: 400px 65px 0    
 }
 
 .logo {
@@ -51,6 +51,7 @@ h1, h2 {
 
 .nav a {
     text-decoration: none;
+    color: #0000ff;
 }
 
 .nav a:hover {
@@ -64,7 +65,7 @@ h1, h2 {
 /* header image */
 
 #header-image {
-    min-height: 300px;
+    height: 320px;
     width: 100%;
     background: url('../css/images/main-header-image.jpg') no-repeat center center;
     background-size: cover;
@@ -167,6 +168,7 @@ footer {
 
     .nav-gallery a {
         text-decoration: none;
+        color: #0000ff;
     }
     
     .nav-gallery a:hover {
@@ -207,3 +209,87 @@ footer {
     padding-top: 20px;
 }
 
+/* Register form */
+
+.form-section {
+    clear: both;
+    height: 900px;
+    background: url('../css/images/reg-image.jpg') no-repeat center center;
+    background-size: cover;
+    
+}
+
+.logo-register {
+    float: left;
+    font-size: 250%;
+    margin-left: 40px;
+    border-bottom: 5px solid;
+    padding: 20 15px
+}
+
+.nav-register {
+    font-size: 115%;
+    list-style: none;
+    float: right;
+}
+
+
+.nav-register li {
+    float: left;
+    margin: 0 45px;
+    padding: 20px; 
+    
+}
+
+.nav-register a {
+    text-decoration: none;
+    color: #0000ff;
+}
+
+.nav-register a:hover {
+    border-bottom: 1px solid;
+}
+
+#active {
+    border-bottom: 1px solid;
+}
+
+.register-form {
+    margin: 150px 10% 0 0;
+    color: #fff;
+    background-color: rgba(0, 0, 0, 0.493);
+    max-width: 400px;
+    position: absolute;
+    left: 10%;
+    padding: 20px;
+}
+
+.register-form h2 {
+    color: #fafafa;
+    margin-bottom: 20px;
+}
+
+.text-input {
+    background: transparent;
+    color: #fafafa;
+    width: 100%;
+    height: 25px;
+    margin: 5px 0 20px;
+    border: 1px solid #fafafa;
+    border-radius: 2px;
+}
+
+.text-input:hover {
+    border-color: #eb0000;
+}
+
+.join-button {
+    margin-top: 20px;
+    border-radius: 2px;
+    padding: 15px 32px 15px 32px;
+    text-align: center;
+    font-size: 100%;
+    background-color: #0900ae;
+    color: #fafafa;
+    display: block;
+}
