@@ -303,19 +303,20 @@ footer {
 /* For larger to medium size screens from 1245px wide and down */
 
 @media screen and (max-width: 1245px) {
-    #right-image {   
-    position: static;
+    
+    .nav li {
+        position: relative;
+        float: left;
+        margin: 350px 30px 0;
     }
 
-    #left-text p {
-        text-align: center;
-        width: 100%;
-        margin-bottom: 0px;
-        float: left;
+    #right-image {   
+    position: static;
+    margin: 0 0 20px 80px;
     }
 
     #youtube-lnk {
-            padding-left: 30px;
+            padding-left: 70px;
         }
 
         #youtube-txt{
@@ -349,22 +350,21 @@ footer {
     #left-txt p {
         text-align: center;
         margin-left: 200px;
-        font-size: 120%; 
+        font-size: 130%; 
         width: 100%;
      }
 
      #left-txt-bottom p {
-        text-align: center;
-        margin: 0 25px;
+        text-align: center;   
      }
         
      #right-image {
         margin: 0 220px 0 200px;
-        padding: 0 150px 50px 0;
+        padding: 0 150px 50px 15px;
      }
      
      #youtube-lnk {
-        margin: 0 200px 0 180px;
+        margin: 0 200px 0 160px;
      }
     
 }
