@@ -300,9 +300,16 @@ footer {
 
 /* Media queries */
 
-/* For larger to medium size screens from 1245px wide and down */
+/* For larger size screens from 1245px wide and up */
 
-@media screen and (max-width: 1245px) {
+@media screen and (min-width: 1245px) {
+
+
+}
+
+/* For larger to medium size screens from 1200px wide and down */
+
+@media screen and (max-width: 1200px) {
     
     .nav li {
         position: relative;
