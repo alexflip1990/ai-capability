@@ -324,10 +324,6 @@ footer {
     margin: 0 0 20px 80px;
     }
 
-    #left-txt-bottom {
-        padding-right: 60px;
-    }
-
     #youtube-lnk {
             padding-left: 70px;
         }
@@ -415,17 +411,22 @@ footer {
      }
 
      #right-image {
-        margin: 0 50px 0 ;
+        margin: 0 40px 0;
+        
         
      }
 
      #left-txt-bottom p {
-        padding-left: 200px;   
+        padding-left: 150px;   
      }
 
      #youtube-lnk {
-        
-        
+        margin: 0 50px 0;
+     }
+
+     #youtube-txt p {
+        text-align: center;
+        padding-left: 150px;
      }
 }
 
