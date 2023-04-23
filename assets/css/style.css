@@ -394,6 +394,25 @@ footer {
      #youtube-lnk {
         margin: 0 200px 0 160px;
      }
+
+     #center-image {
+        margin: 0 20px;
+    }
+
+    #center-image-two {
+        margin: 0 20px;
+    }
+
+    #ai-face {
+        padding-left: 50px;
+        column-count: 1;      
+        }
+
+    #ai-painting {
+        margin-top: 20px;
+        padding-left: 50px;
+        column-count: 1;
+        }    
     
 }
 
