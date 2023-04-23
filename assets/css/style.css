@@ -67,7 +67,7 @@ h1, h2 {
 /* header image */
 
 #header-image {
-    height: 320px;
+    min-height: 320px;
     width: 100%;
     background: url('../css/images/main-header-image.jpg') no-repeat center center;
     background-size: cover;
@@ -377,20 +377,14 @@ footer {
 
     #left-txt p {
         text-align: center;
-        margin-left: 200px;
         font-size: 130%; 
         width: 100%;
      }
 
-     #left-txt-bottom p {
-        text-align: center;   
+     #left-text-bottom {
+        padding-left: 120px;
      }
-        
-     #right-image {
-        margin: 0 220px 0 200px;
-        padding: 0 150px 50px 15px;
-     }
-     
+ 
      #youtube-lnk {
         margin: 0 200px 0 160px;
      }
@@ -453,17 +447,12 @@ footer {
      }
 
      #right-image {
-        margin: 0 40px 0;
-        float: left;
-     }
-
-     #left-txt-bottom p {
-        padding-left: 150px;
-           
+        margin: 0px;
+        padding: 0px;
      }
 
      #youtube-lnk {
-        margin: 0 50px 0;
+        margin-left: 0px;
         
      }
 
@@ -486,3 +475,28 @@ footer {
         }    
 }
 
+/* For small screen size from 450px wide and down */
+
+@media screen and (max-width: 450px) {
+
+    img {
+        width: 100%;
+        height: 250px;
+    }
+    #right-image {
+        margin: 0px;
+        padding: 0px;  
+     }
+
+     iframe {
+        width: 100%;
+        height: 250px;
+     }
+
+     #youtube-lnk {
+        margin: 0px;
+        padding: 0px;
+      
+     }
+
+    }
