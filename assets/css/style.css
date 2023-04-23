@@ -478,13 +478,15 @@ footer {
         }    
 }
 
+
+
 /* For small screen size from 450px wide and down */
 
 @media screen and (max-width: 450px) {
 
-    img {
-        width: 100%;
-        height: 250px;
+    #right-image {
+        overflow: hidden;
+        
     }
     #right-image {
         margin: 0px;
