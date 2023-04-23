@@ -449,8 +449,7 @@ footer {
         text-align: center;
         margin-left: 180px;
         font-size: 130%; 
-        width: 100%;
-       
+        width: 100%;  
      }
 
      #right-image {
@@ -472,5 +471,18 @@ footer {
         padding-left: 50px;
         
      }
+
+     #ai-face {
+        padding-left: 50px;
+        column-count: 1;      
+        }
+
+    #center-image {
+        margin: 0;
+        }
+
+    #center-image-two {
+        margin: 0;
+        }    
 }
 
