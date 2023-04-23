@@ -441,9 +441,12 @@ footer {
 
     #left-txt p {
         text-align: center;
-        margin-left: 180px;
         font-size: 130%; 
         width: 100%;  
+     }
+
+     #left-txt-bottom p {
+        width: 50%;
      }
 
      #right-image {
@@ -457,7 +460,7 @@ footer {
      }
 
      #youtube-txt p {
-        padding-left: 50px;
+        width: 50%;
         
      }
 
