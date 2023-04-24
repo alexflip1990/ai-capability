@@ -478,6 +478,21 @@ footer {
         }    
 }
 
+/* For small screen size from 640px wide and down */
+
+@media screen and (max-width: 640px) {
+    .nav-register {
+        font-size: 115%;
+        list-style: none;
+        float: left;        
+    }
+    .nav-register li {
+        position: relative;
+        float: left;
+        margin: 100px 5px 0;    
+    }
+}
+
 /* For small screen size from 520px wide and down */
 
 @media screen and (max-width: 520px) {
@@ -491,7 +506,7 @@ footer {
     .nav-gallery li {
         position: relative;
         float: left;
-        margin: 100px 10px 0 ;    
+        margin: 100px 10px 0;    
     }
 }
 
@@ -509,8 +524,7 @@ footer {
 
 .nav-gallery li {
     position: relative;
-    
-        
+            
 }
 
 }
