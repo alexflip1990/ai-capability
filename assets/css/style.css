@@ -53,7 +53,7 @@ h1, h2 {
 
 .nav a {
     text-decoration: none;
-    color: #0000ff;
+    color: #f5f5f5;
 }
 
 .nav a:hover {
@@ -170,7 +170,7 @@ footer {
 
     .nav-gallery a {
         text-decoration: none;
-        color: #0000ff;
+        color: #f5f5f5;
     }
     
     .nav-gallery a:hover {
@@ -249,7 +249,7 @@ footer {
 
 .nav-register a {
     text-decoration: none;
-    color: #0000ff;
+    color: #f5f5f5;
 }
 
 .nav-register a:hover {
