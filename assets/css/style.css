@@ -554,3 +554,13 @@ footer {
      }
 
     }
+
+    /* For small screen size from 400px wide and down */
+    @media screen and (max-width: 400px) {
+        .nav-register {
+            font-size: 78%;
+            list-style: none;
+            float: left;          
+        }
+       
+    }
