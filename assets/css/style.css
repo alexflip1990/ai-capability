@@ -496,6 +496,26 @@ footer {
     }
 }
 
+/* For small screen size from 365px wide and up */
+
+@media screen and (max-width: 365px) {
+
+    .nav-gallery {
+    position: absolute;
+    font-size: 80%;
+    list-style: none;
+    float: left;
+    margin-left: 20px;       
+}
+
+.nav-gallery li {
+    position: relative;
+    float: left;
+    margin: 100px 10px 0 ;    
+}
+
+}
+
 /* For small screen size from 450px wide and down */
 
 @media screen and (max-width: 450px) {
