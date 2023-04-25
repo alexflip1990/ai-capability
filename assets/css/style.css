@@ -1,3 +1,4 @@
+
 @import url('https://fonts.googleapis.com/css2?family=Syncopate:wght@700&family=Trirong:wght@700&display=swap');
 
 * {
@@ -523,9 +524,15 @@ footer {
 /* For small screen size from 365px wide and down */
 
 @media screen and (max-width: 365px) {
-
+    .logo-gallery{
+        float: left;
+        font-size: 200%;
+        margin-left: 40px;
+        border-bottom: 5px solid;
+        padding-top: 20px;  
+    }
+   
     .nav-gallery {
-        position: absolute;
         font-size: 100%;
         list-style: none;
         float: left;
