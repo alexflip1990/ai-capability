@@ -86,14 +86,6 @@ p {
     margin-bottom: 100px;
 }
 
-/* Images homepage */
-
-#right-image {
-    position: absolute;
-    left: 950px;
-    top: 550px;
-}
-
 /* Youtube link */
 
 #youtube-lnk {
@@ -286,14 +278,38 @@ footer {
 
 /* Media queries */
 
-/* For larger size screens from 1245px wide and up */
+/* For larger size screens from 1201px wide and up */
 
-@media screen and (min-width: 1245px) {}
+@media screen and (min-width: 1201px) {
+    #left-txt {
+        text-align: center;
+        width: 100%;
+    }
+    p {
+        margin-left: 40px;
+        font-size: 180%;
+        margin-bottom: 100px;
+    }
+    #right-image {
+        padding: 0 40%;
+        margin: 0 15px;       
+    }
+    #left-txt-bottom {
+        text-align: center;
+    }
+    #youtube-lnk {
+        padding: 0 43%;
+        margin: 0 15px;
+    }
+    #youtube-txt {
+        text-align: center;
+        padding-right: 15%;    
+    }
+}
 
 /* For larger to medium size screens from 1200px wide and down */
 
 @media screen and (max-width: 1200px) {
-
     .nav li {
         position: relative;
         float: left;
