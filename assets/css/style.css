@@ -11,8 +11,6 @@ body {
     font-weight: 700;
     color: #f5f5f5;
     background-color: rgb(0, 0, 0);
-
-
 }
 
 /* Headings and logo */
@@ -21,8 +19,6 @@ h1,
 h2 {
     font-family: Syncopate, sans-serif;
     color: #0000ff;
-
-
 }
 
 .logo {
@@ -39,7 +35,6 @@ h2 {
     font-size: 115%;
     list-style: none;
     float: right;
-
 }
 
 
@@ -68,11 +63,10 @@ h2 {
 /* header image */
 
 #header-image {
-    min-height: 320px;
+    height: 320px;
     width: 100%;
     background: url('../images/main-header-image.jpg') no-repeat center center;
     background-size: cover;
-
 }
 
 /* AI info */
@@ -80,13 +74,10 @@ h2 {
 .ai-info {
     min-height: 150px;
     padding: 110px 10px 0 50px;
-
 }
 
 #left-txt {
-
     width: 50%;
-
 }
 
 p {
@@ -101,7 +92,6 @@ p {
     position: absolute;
     left: 950px;
     top: 550px;
-
 }
 
 /* Youtube link */
@@ -152,7 +142,6 @@ footer {
     margin-left: 40px;
     border-bottom: 5px solid;
     padding-top: 20px;
-
 }
 
 .nav-gallery {
@@ -166,7 +155,6 @@ footer {
     float: left;
     margin: 0 45px;
     padding-top: 20px;
-
 }
 
 .nav-gallery a {
@@ -188,12 +176,10 @@ footer {
 #gallery-photo {
     clear: both;
     padding-top: 50px;
-
 }
 
 #ai-face {
     padding-left: 300px;
-
 }
 
 #center-image {
@@ -207,7 +193,6 @@ footer {
 #ai-painting {
     margin-top: 20px;
     padding-left: 300px;
-
 }
 
 /* Gallery text */
@@ -220,10 +205,9 @@ footer {
 
 .form-section {
     clear: both;
-    height: 900px;
+    height: 1100px;
     background: url('../images/reg-image.jpg') no-repeat center center;
     background-size: cover;
-
 }
 
 .logo-register {
@@ -245,7 +229,6 @@ footer {
     float: left;
     margin: 0 45px;
     padding: 20px;
-
 }
 
 .nav-register a {
@@ -346,9 +329,7 @@ footer {
     #ai-painting {
         margin-top: 20px;
         padding-left: 200px;
-
     }
-
 }
 
 
@@ -372,7 +353,6 @@ footer {
         float: left;
         margin: 350px 40px 0;
     }
-
 
     #left-txt p {
         text-align: center;
@@ -406,7 +386,6 @@ footer {
         padding-left: 50px;
         column-count: 1;
     }
-
 }
 
 /* For small screen size from 670px wide and down */
@@ -415,7 +394,6 @@ footer {
     .logo {
         padding-top: 0px;
         font-size: 120%;
-
     }
 
     .nav {
@@ -423,19 +401,16 @@ footer {
         font-size: 115%;
         list-style: none;
         float: left;
-
     }
 
     .nav li {
         position: relative;
         float: left;
         margin: 350px 10px 0;
-
     }
 
     .ai-info h1 {
         margin-left: 200px;
-
     }
 
     #left-txt p {
@@ -455,12 +430,10 @@ footer {
 
     #youtube-lnk {
         margin-left: 0px;
-
     }
 
     #youtube-txt p {
         width: 50%;
-
     }
 
     #ai-face {
@@ -526,16 +499,13 @@ footer {
         position: relative;
 
     }
-
 }
 
 /* For small screen size from 450px wide and down */
 
 @media screen and (max-width: 450px) {
-
     #right-image {
         overflow: hidden;
-
     }
 
     #right-image {
@@ -551,9 +521,7 @@ footer {
     #youtube-lnk {
         margin: 0px;
         padding: 0px;
-
     }
-
 }
 
 /* For small screen size from 400px wide and down */
@@ -564,4 +532,9 @@ footer {
         float: left;
     }
 
+    .logo-register {
+        float: left;
+        font-size: 180%;
+        border-bottom: 5px solid;
+    }
 }
