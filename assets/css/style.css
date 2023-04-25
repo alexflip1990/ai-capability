@@ -189,7 +189,7 @@ footer {
 
 /* Gallery text */
 
-#gallery-txt>p {
+#gallery-txt p {
     padding-top: 20px;
 }
 
@@ -305,6 +305,27 @@ footer {
         text-align: center;
         padding-right: 15%;    
     }
+    .nav-gallery {
+        font-size: 115%;
+        list-style: none;
+        float: right;
+        padding-right: 5%;
+    }
+    #ai-face {
+        padding-left: 35%;
+    }
+    #center-image {
+        margin: 0 30px;
+    }
+    #ai-painting {
+        padding-left: 35%;
+    }
+    #center-image-two {
+        margin: 0 30px;
+    }
+    #gallery-txt p {
+        padding-top: 20px;
+    }   
 }
 
 /* For larger to medium size screens from 1200px wide and down */
