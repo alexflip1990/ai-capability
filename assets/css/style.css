@@ -79,6 +79,10 @@ h2 {
     padding: 110px 10px 0 50px;
 }
 
+.ai-info {
+    font-size: 180%;
+}
+
 #left-txt {
     width: 50%;
 }
@@ -286,6 +290,10 @@ footer {
 /* This is for the home page */
 
 @media screen and (min-width: 1201px) {
+    .logo {
+        padding-top: 0px;
+    }
+
     #left-txt {
         text-align: center;
         width: 100%;
@@ -344,6 +352,10 @@ footer {
 
 /* This is for the home page */
 @media screen and (max-width: 1200px) {
+    .logo {
+        padding-top: 0px;
+    }
+
     .nav li {
         position: relative;
         float: left;
