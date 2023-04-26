@@ -15,10 +15,13 @@ body {
 
 /* Headings and logo */
 
-h1,
-h2 {
+h1 {
     font-family: Syncopate, sans-serif;
     color: #0000ff;
+}
+
+h2 {
+    color: #f5f5f5;
 }
 
 .logo {
@@ -317,7 +320,7 @@ footer {
     }
 
     #ai-face {
-        padding-left: 35%;
+        padding-left: 30%;
     }
 
     #center-image {
@@ -325,7 +328,7 @@ footer {
     }
 
     #ai-painting {
-        padding-left: 35%;
+        padding-left: 30%;
     }
 
     #center-image-two {
