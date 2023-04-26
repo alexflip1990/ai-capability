@@ -1,4 +1,3 @@
-
 @import url('https://fonts.googleapis.com/css2?family=Syncopate:wght@700&family=Trirong:wght@700&display=swap');
 
 * {
@@ -281,66 +280,71 @@ footer {
 
 /* For larger size screens from 1201px wide and up */
 
+/* This is for the home page */
+
 @media screen and (min-width: 1201px) {
     #left-txt {
         text-align: center;
         width: 100%;
     }
+
     p {
         margin-left: 40px;
         font-size: 180%;
         margin-bottom: 100px;
     }
-    #right-image {
-        padding: 0 40%;
-        margin: 0 15px;       
-    }
+
     #left-txt-bottom {
         text-align: center;
     }
+
     #youtube-lnk {
         padding: 0 43%;
         margin: 0 15px;
     }
+
     #youtube-txt {
         text-align: center;
-        padding-right: 15%;    
+        padding-right: 15%;
     }
+
+    /* This is for the gallery page */
     .nav-gallery {
         font-size: 115%;
         list-style: none;
         float: right;
         padding-right: 5%;
     }
+
     #ai-face {
         padding-left: 35%;
     }
+
     #center-image {
         margin: 0 30px;
     }
+
     #ai-painting {
         padding-left: 35%;
     }
+
     #center-image-two {
         margin: 0 30px;
     }
+
     #gallery-txt p {
         padding-top: 20px;
-    }   
+    }
 }
 
 /* For larger to medium size screens from 1200px wide and down */
 
+/* This is for the home page */
 @media screen and (max-width: 1200px) {
     .nav li {
         position: relative;
         float: left;
         margin: 350px 30px 0;
-    }
-
-    #right-image {
-        position: static;
-        margin: 0 0 20px 80px;
     }
 
     #youtube-lnk {
@@ -352,6 +356,7 @@ footer {
         padding-left: 5px;
     }
 
+    /* This is for the gallery page */
     #center-image {
         margin: 0 80px;
     }
@@ -370,10 +375,9 @@ footer {
     }
 }
 
-
-
 /* For medium screen size from 1007px wide and down */
 
+/* This is for the home page */
 @media screen and (max-width: 1007px) {
     .logo {
         padding-top: 0px;
@@ -403,9 +407,10 @@ footer {
     }
 
     #youtube-lnk {
-        margin: 0 200px 0 160px;
+        padding-left: 70px;
     }
 
+    /* This is for the gallery page */
     #center-image {
         margin: 0 20px;
     }
@@ -428,6 +433,7 @@ footer {
 
 /* For small screen size from 670px wide and down */
 
+/* This is for the home page */
 @media screen and (max-width: 670px) {
     .logo {
         padding-top: 0px;
@@ -461,11 +467,6 @@ footer {
         width: 50%;
     }
 
-    #right-image {
-        margin: 0px;
-        padding: 0px;
-    }
-
     #youtube-lnk {
         margin-left: 0px;
     }
@@ -474,6 +475,7 @@ footer {
         width: 50%;
     }
 
+    /* This is for the gallery page */
     #ai-face {
         padding-left: 50px;
         column-count: 1;
@@ -490,6 +492,7 @@ footer {
 
 /* For small screen size from 640px wide and down */
 
+/* This is for the register page */
 @media screen and (max-width: 640px) {
     .nav-register {
         font-size: 115%;
@@ -506,6 +509,7 @@ footer {
 
 /* For small screen size from 520px wide and down */
 
+/* This is for the gallery page */
 @media screen and (max-width: 520px) {
     .nav-gallery {
         font-size: 130%;
@@ -523,15 +527,16 @@ footer {
 
 /* For small screen size from 365px wide and down */
 
+/* This is for the gallery page */
 @media screen and (max-width: 365px) {
-    .logo-gallery{
+    .logo-gallery {
         float: left;
         font-size: 200%;
         margin-left: 40px;
         border-bottom: 5px solid;
-        padding-top: 20px;  
+        padding-top: 20px;
     }
-   
+
     .nav-gallery {
         font-size: 100%;
         list-style: none;
@@ -547,18 +552,9 @@ footer {
 
 /* For small screen size from 450px wide and down */
 
+/* This is for the home page */
 @media screen and (max-width: 450px) {
-    #right-image {
-        overflow: hidden;
-    }
-
-    #right-image {
-        margin: 0px;
-        padding: 0px;
-    }
-
     iframe {
-        width: 100%;
         height: 250px;
     }
 
@@ -569,6 +565,8 @@ footer {
 }
 
 /* For small screen size from 400px wide and down */
+
+/* This is for the register page */
 @media screen and (max-width: 400px) {
     .nav-register {
         font-size: 78%;
