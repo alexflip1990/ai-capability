@@ -112,6 +112,10 @@ The live link can be found here [AI Abilities](https://alexflip1990.github.io/ai
  - Images edited using [Photopad image editor](https://apps.microsoft.com/store/detail/photopad-photo-editor-free/9PC4CJFXJF3C?hl=en-au&gl=au)
  -  Images taken from [PEXELS](https://www.pexels.com/) 
  -  Images compressed using [TINYPNG](https://tinypng.com/)
+
+ #### Student support
+ - Joshua helped with the responsiveness for the youtube video link.
+ - Lauren-nicole helped with file path for readme.md
  
 
 
