@@ -41,4 +41,11 @@ Users will get a better understanding of what AI is and will be able to watch a 
    * There is a short sentence  encouraging the user to click the gallery link at the top of the page to view some of the art created by Ai
    * This section provides the user with our social media links and encourages the user to follow us on social media where they will be able to see more Ai abilities.
 
-   ![Screen shot of text and social media links image, added in markdown](assets/images/social-media-homepage.png)
+   ![Screen shot of text and social media links image, added in markdown.](assets/images/social-media-homepage.png)
+
+- Art Gallery
+   * This section provides some images that have been created by Ai allowing them to see how realistic some images can be and how detailed others are.
+   * This section also lets the user know that they are able to register to the site to receive updates on new developments and join the sites online debate.
+
+   ![Screen shot of gallery paintings image, added in markdown.](assets/images/art-gallery.png)
+   ![Screen shot of gallery text image, added in markdown.](assets/images/art-text.png)
