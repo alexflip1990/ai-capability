@@ -105,8 +105,13 @@ The live link can be found here [AI Abilities](https://alexflip1990.github.io/ai
  - Reversed list order for navigation links taken from [Reversed Nav Links](https://codepen.io/ConStambo/pen/WxRQVq)
  - Icons in the footer were taken from [Font Awesome](https://fontawesome.com/v5/search)
  - AI info paragraph taken from wikipedia [Artificial Intelligence](https://en.wikipedia.org/wiki/Artificial_intelligence)
- - How to embed a youtube video taken from [Google](https://www.google.com/search?q=how+to+get+a+youtube+video+link+to+work+on+html+page&sxsrf=APwXEddneWFH4wmZasYyRuGdVW2mRNuAhA%3A1681659527925&source=hp&ei=hxY8ZN-yNp2HhbIPlbizsAw&iflsig=AOEireoAAAAAZDwklzjZsSjThBL0O4K0sLE2RVwOkkNh&oq=how+to+get+a+youtube+video+link+to+work+on+html&gs_lcp=Cgdnd3Mtd2l6EAMYATIFCCEQoAEyBQghEKABOgcIIxDqAhAnOgQIIxAnOggIABCKBRCRAjoLCAAQgAQQsQMQgwE6EQguEIAEELEDEIMBEMcBENEDOgUILhCABDoUCC4QgAQQsQMQgwEQxwEQ0QMQ1AI6DgguEIAEELEDEMcBENEDOg4ILhDHARCxAxDRAxCABDoFCAAQgAQ6CwgAEIoFELEDEIMBOgsILhCABBCxAxDUAjoHCC4QgAQQCjoHCAAQgAQQCjoNCAAQgAQQsQMQgwEQCjoKCAAQgAQQsQMQCjoGCAAQFhAeOggIABAWEB4QDzoICAAQigUQhgM6CAghEBYQHhAdOgQIIRAVOgcIIRCgARAKUIYFWP2DAWC2qAFoBHAAeACAAaQBiAH6IZIBBTQwLjEwmAEAoAEBsAEK&sclient=gws-wiz)
+ - Embeded a youtube video taken from [Google](https://www.google.com/search?q=how+to+get+a+youtube+video+link+to+work+on+html+page&sxsrf=APwXEddneWFH4wmZasYyRuGdVW2mRNuAhA%3A1681659527925&source=hp&ei=hxY8ZN-yNp2HhbIPlbizsAw&iflsig=AOEireoAAAAAZDwklzjZsSjThBL0O4K0sLE2RVwOkkNh&oq=how+to+get+a+youtube+video+link+to+work+on+html&gs_lcp=Cgdnd3Mtd2l6EAMYATIFCCEQoAEyBQghEKABOgcIIxDqAhAnOgQIIxAnOggIABCKBRCRAjoLCAAQgAQQsQMQgwE6EQguEIAEELEDEIMBEMcBENEDOgUILhCABDoUCC4QgAQQsQMQgwEQxwEQ0QMQ1AI6DgguEIAEELEDEMcBENEDOg4ILhDHARCxAxDRAxCABDoFCAAQgAQ6CwgAEIoFELEDEIMBOgsILhCABBCxAxDUAjoHCC4QgAQQCjoHCAAQgAQQCjoNCAAQgAQQsQMQgwEQCjoKCAAQgAQQsQMQCjoGCAAQFhAeOggIABAWEB4QDzoICAAQigUQhgM6CAghEBYQHhAdOgQIIRAVOgcIIRCgARAKUIYFWP2DAWC2qAFoBHAAeACAAaQBiAH6IZIBBTQwLjEwmAEAoAEBsAEK&sclient=gws-wiz)
  - You tube video code taken from [Youtube](https://www.youtube.com/watch?v=mFa7Kxwqruc&t=1s)
+
+ #### Media
+ - Images edited using [Photopad image editor](https://apps.microsoft.com/store/detail/photopad-photo-editor-free/9PC4CJFXJF3C?hl=en-au&gl=au)
+ -  Images taken from [PEXELS](https://www.pexels.com/) 
+ -  Images compressed using [TINYPNG](https://tinypng.com/)
  
 
 
