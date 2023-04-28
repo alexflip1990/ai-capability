@@ -25,3 +25,8 @@ Users will get a better understanding of what AI is and will be able to watch a 
     * The navigation links makes the viewers experience easier when navigating through the site as they are not required to use the return button.
 
     ![Screen shot of nav logo image, added in markdown.](assets/images/ai-logo-nav.png) ![Screen shot of nav links image, added in markdown.](assets/images/home-nav-lnks.png)
+
+- AI Info Section
+  * The Ai info section gives the users detail on what artificial intelligence is and gives some examples in where Ai is used and what it is used for.
+
+  ![Screen shot of AI info text image, in markdown.](assets/images/ai-info-section.png)
