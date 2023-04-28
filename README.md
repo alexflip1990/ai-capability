@@ -29,4 +29,10 @@ Users will get a better understanding of what AI is and will be able to watch a 
 - AI Info Section
   * The Ai info section gives the users detail on what artificial intelligence is and gives some examples in where Ai is used and what it is used for.
 
-  ![Screen shot of AI info text image, in markdown.](assets/images/ai-info-section.png)
+  ![Screen shot of AI info text image, added in markdown.](assets/images/ai-info-section.png)
+
+- Youtube video
+  * This section provides the user with a youtube video link that demonstrates up to thirty different things artificial intelligence is capable of. 
+  * This video is important for the user as it allows them to watch Ai can do when being commanded.
+
+  ![Screen shot of youtube video image, added in markdown.](assets/images/youtube-image.png)
