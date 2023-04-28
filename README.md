@@ -49,3 +49,10 @@ Users will get a better understanding of what AI is and will be able to watch a 
 
    ![Screen shot of gallery paintings image, added in markdown.](assets/images/art-gallery.png)
    ![Screen shot of gallery text image, added in markdown.](assets/images/art-text.png)
+
+- Register 
+   * The register section has a form to collect information from the user so they can sign up to AI Abilities.
+   * The form collects the users first name, last name and email address.
+   * The form is valuable to the user as it allows them to register to AI Abilities and receive development updates with artificial intelligence and allows them to join the sites online debate.
+
+   ![Screen shot of register form image, added in markdown.](assets/images/register-form.png)
