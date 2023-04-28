@@ -86,3 +86,15 @@ Solved bugs
    * I can confirm that the colors and fonts chosen are easy to read and accessible by using the lighthouse in devtools.
 
    ![Screen shot of lighthouse performance image, added in markdown.](assets/images/lighthouse-screen-shot.png)
+
+   ### Unfixed bugs
+There are no unfixed bugs.
+
+### Deployment 
+  - The site was deployed to Github pages, these are the steps that were taken:
+    * In the Github repository I navigated to the Settings tab.
+    * I then selected the pages navigation link towards the left of the screen half way down.
+    * Located the source section drop-down-menu, selected Main branch and clicked save.
+    * Once the Main branch was saved the page provided a link the to completed website.
+
+The live link can be found here
