@@ -36,3 +36,9 @@ Users will get a better understanding of what AI is and will be able to watch a 
   * This video is important for the user as it allows them to watch Ai can do when being commanded.
 
   ![Screen shot of youtube video image, added in markdown.](assets/images/youtube-image.png)
+
+- Social media
+   * There is a short sentence  encouraging the user to click the gallery link at the top of the page to view some of the art created by Ai
+   * This section provides the user with our social media links and encourages the user to follow us on social media where they will be able to see more Ai abilities.
+
+   ![Screen shot of text and social media links image, added in markdown](assets/images/social-media-homepage.png)
