@@ -56,3 +56,22 @@ Users will get a better understanding of what AI is and will be able to watch a 
    * The form is valuable to the user as it allows them to register to AI Abilities and receive development updates with artificial intelligence and allows them to join the sites online debate.
 
    ![Screen shot of register form image, added in markdown.](assets/images/register-form.png)
+
+   ### Testing
+
+  - I have tested that the page works on different browsers: Microsoft Edge, Google Chrome and Firefox and confirm it works on all three.
+  - I can confirm that this project is responsive and looks good and all functions work on all screen size's using the developers tool bar.
+  - I can confirm that the logo, navigation, home, gallery and register text are all readable and easy to understand.
+  - I can confirm that the form works and requires entries in every field and will only accept an email address in the email section, the register button also works.
+
+  ### Bugs
+Solved bugs
+ - While creating my project and testing it through the validator I had discovered some errors within the code, here are some of the errors
+![Screen shot of span error code image, added in markdown.](assets/images/span-error.png)
+- Removing the span fixed the problem.
+
+![Screen shot of px error code image, added in markdown.](assets/images/px-error.png)
+- Removing the px from the height and width fixed the problem.
+
+![Screen shot of frameborder code image, added in markdown.](assets/images/frameborder-error.png)
+- Removing the frameborder fixed the problem.
