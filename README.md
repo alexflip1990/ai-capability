@@ -67,6 +67,7 @@ Users will get a better understanding of what AI is and will be able to watch a 
   ### Bugs
 Solved bugs
  - While creating my project and testing it through the validator I had discovered some errors within the code, here are some of the errors
+
 ![Screen shot of span error code image, added in markdown.](assets/images/span-error.png)
 - Removing the span fixed the problem.
 
@@ -75,3 +76,13 @@ Solved bugs
 
 ![Screen shot of frameborder code image, added in markdown.](assets/images/frameborder-error.png)
 - Removing the frameborder fixed the problem.
+
+### Validator Testing
+ - HTML
+   * No errors where found when passing through the official W3C validator, however I did have warning's, this was due to lack of headings in some sections which advises to use a div element instead if a heading is not needed which I have done.
+ - CSS
+   * No errors where found when passing through the official (Jigsaw) validator
+ - Accessibility 
+   * I can confirm that the colors and fonts chosen are easy to read and accessible by using the lighthouse in devtools.
+
+   ![Screen shot of lighthouse performance image, added in markdown.](assets/images/lighthouse-screen-shot.png)
