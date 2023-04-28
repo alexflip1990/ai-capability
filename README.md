@@ -6,3 +6,14 @@ Users will get a better understanding of what AI is and will be able to watch a 
 
 
 ![Screen shot of website using am I responsive, added in the Markdown.](assets/images/responsive-screen-shot.png)
+
+
+ ### FEATURES  
+- The Header
+   * The header shows the logo AI Abilities in color blue chosen to contrast the background image along with the  other navigation links.
+   * The logo explains in short what the website entitles.
+
+
+   ![Screen shot of header image, added in the markdown.](assets/images/homepage-header.png)
+
+   
